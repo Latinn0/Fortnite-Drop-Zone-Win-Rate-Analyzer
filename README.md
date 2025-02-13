@@ -72,10 +72,10 @@ def generate_heatmap(data):
 
 ## 🖼 Examples
 📌 **Heatmap of drop zones & win rates:**  
-![Heatmap](assets/heatmap_example.png)  
+![Heatmap](1.png)  
 
 📌 **Survival rate analysis:**  
-![Survival Stats](assets/survival_stats_example.png)  
+![Survival Stats](2.jpg)  
 
 ---
 
