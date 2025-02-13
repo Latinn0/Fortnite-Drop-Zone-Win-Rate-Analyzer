@@ -1,0 +1,5 @@
+{
+    "cloud_data_url": "https://your-cloud-storage-link.com/fortnite_data.json",
+    "default_map": "Battle Royale Island",
+    "heatmap_threshold": 100
+}
